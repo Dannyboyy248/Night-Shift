@@ -1,4 +1,4 @@
-# Night-Shift NIGHT SHIFT
+# Night-Shift 
 A first-person stealth-horror game for the browser, built with three.js (r160). You are the night guard: collect every fuse on each floor to restore power, then reach the exit beam. Patrolling Wardens hunt you by sight and sound. Your flashlight is both your eyes and your only weapon: hold it on a Warden for ~1 s to stun it. Survive 5 floors.
 Run
 ES modules need an HTTP server (opening `index.html` via `file://` will not work). Needs internet once, because three.js loads from jsDelivr.
